@@ -10,7 +10,7 @@ I'm a software engineer in DRC, Goma 🌆
 
 <div align="center">
     <a href="https://www.linkedin.com/in/adolphe-kifungo-242305131/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ardinbig-blue?style=flat-square&logo=linkedin">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adkif-blue?style=flat-square&logo=linkedin">
     </a>
     <a href="https://twitter.com/adolphekifungo">
         <img alt="Twitter" src="https://img.shields.io/badge/Twitter-adolphekifungo-blue?style=flat-square&logo=twitter">
