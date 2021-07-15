@@ -8,7 +8,7 @@ I'm a software engineer in DRC, Goma 🌆
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm also a sunday handyman
 
-<div align="center">
+<div align="start">
     <a href="https://www.linkedin.com/in/adolphe-kifungo-242305131/">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adkif-blue?style=flat-square&logo=linkedin">
     </a>
