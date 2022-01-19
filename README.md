@@ -26,5 +26,4 @@ I'm a software engineer in DRC, Goma 🌆
     <a href="mailto:akifungo@gmail.com">
         <img alt="Email" src="https://img.shields.io/badge/Email-akifungo@gmail.com-orange?style=flat-square&logo=Gmail">
     </a>
-    <p>![Profile views](https://gpvc.arturio.dev/adkif)</p>
 </div>
