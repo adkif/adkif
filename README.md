@@ -16,7 +16,7 @@ I'm a software engineer in DRC, Goma 🌆
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adkif&" alt="Adolphe Kifungo" /></p>
 
-<div align="start">
+<!-- <div align="start">
     <a href="https://www.linkedin.com/in/adolphe-kifungo-242305131/">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adkif-blue?style=flat-square&logo=linkedin">
     </a>
@@ -29,5 +29,5 @@ I'm a software engineer in DRC, Goma 🌆
     <a href="mailto:akifungo@gmail.com">
         <img alt="Email" src="https://img.shields.io/badge/Email-akifungo@gmail.com-orange?style=flat-square&logo=Gmail">
     </a>
-</div>
+</div> -->
 
