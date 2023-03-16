@@ -1,4 +1,4 @@
-# Hi there,I'm Adolphe Kifungo... 👋
+# Hi there,I'm AK 😎... 👋
 
 I'm a software engineer in DRC, Goma 🌆
 
