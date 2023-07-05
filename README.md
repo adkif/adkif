@@ -5,14 +5,12 @@ I'm a software engineer in DRC, Goma 🌆
 - 🔭 I’m currently working on personal and professional projects
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Java](https://docs.oracle.com/en/java/),[C++](https://devdocs.io/cpp/), [Javascript](https://devdocs.io/javascript/) and more about programming...
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm also a sunday handyman
 
 [![Adkifs GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=adkif&count_private=true&include_all_commits=true&hide=contribs&show_icons=true)](https://github.com/adkif)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adkif&exclude_repo=ualehosaini.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/adkif)
 
-![Profile views](https://gpvc.arturio.dev/adkif)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adkif&" alt="Adolphe Kifungo" /></p>
 
