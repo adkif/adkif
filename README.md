@@ -1,6 +1,6 @@
 # Hi there,I'm AK 😎... 👋
 
-I'm a software engineer in DRC, Goma 🌆
+I'm a software engineer from DRC, Goma 🌆
 
 - 🔭 I’m currently working on personal and professional projects
 - 🧑‍💻 I’m looking to collaborate on open source projects
