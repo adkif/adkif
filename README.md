@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://adkif.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-adkif.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/adolphe-kifungo-242305131/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adkif-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/adolphekifungo"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-adolphekifungo-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://www.instagram.com/adkif"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adkif-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
@@ -15,6 +16,7 @@
 
 ## About
 
+- 🌐 Portfolio: [adkif.netlify.app](https://adkif.netlify.app)
 - 🔭 Working on personal and professional projects
 - 🧑‍💻 Looking to collaborate on open source
 - 💬 Ask me about [Java](https://docs.oracle.com/en/java/), [C++](https://devdocs.io/cpp/), [JavaScript](https://devdocs.io/javascript/) and programming in general
